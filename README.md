@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning TypeScript, GraphQL
-- 📫 How to reach me:(ygzaydns@gmail.com) 
+- 📫 How to reach me: ygzaydns@gmail.com
 - ⚡ You can find the work I have done on [here](https://ygzaydn.github.io/portfolio)
 
 
