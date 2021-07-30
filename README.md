@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning TypeScript, GrahpQL
 - 📫 How to reach me:(ygzaydns@gmail.com) 
 - ⚡ You can find the work I have done on [here](ygzaydn.github.io/portfolio)
-- 
+
+
 My tech stack:
 
 <p>
