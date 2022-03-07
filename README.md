@@ -3,10 +3,10 @@
 
 <p>Welcome to my page! </br> I'm Yağız from Turkey.
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning TypeScript, GraphQL
-- 📫 How to reach me: ygzaydns@gmail.com
-- ⚡ You can find the work I have done on [here](https://erolyagizaydin.web.app)
+- 🔭 I’m currently working on crypto related projects.
+- 🌱 I’m currently learning TypeScript, GraphQL.
+- 📫 How to reach me: ygzaydns@gmail.com.
+- ⚡ You can find the work I have done on [here](https://erolyagizaydin.web.app).
 
 
 My tech stack:
