@@ -1,8 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there.</h1>
 
 
-<p>Welcome to my page! </br> I'm Yağız from Turkey.
+<p>I'm Yağız from Turkey.
 
+- 💻 Currently working as a System Design Engineer in Telecom field.
 - 📫 How to reach me: ygzaydns@gmail.com.
 - ⚡ You can find the work I have done on [here](https://erolyagizaydin.web.app).
 
