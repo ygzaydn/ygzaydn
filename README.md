@@ -3,9 +3,9 @@
 
 <p>I'm Yağız from Turkey.
 
-- 💻 Currently working as a System Design Engineer in Telecom field.
+- 💻 Currently working as a System Design Engineer.
 - 📫 How to reach me: ygzaydns@gmail.com.
-- ⚡ You can find the work I have done on [here](https://erolyagizaydin.web.app).
+- ⚡ You can find the work I have done on [here](https://erolyagizaydin.vercel.app).
 
 
 My tech stack:
