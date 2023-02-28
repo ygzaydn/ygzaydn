@@ -2,7 +2,7 @@
 
 <p>I'm Yağız from Turkey.
 
-a React developer with 3+ years of experience in blending the art of design with skill of programming to deliver an immersive and engaging user experience through web applications.
+a React developer with 3+ years of experience.
 
 I have passion for Design Systems, Web Accessibility and Serverless Technologies.
 
