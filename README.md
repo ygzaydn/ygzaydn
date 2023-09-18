@@ -9,7 +9,7 @@ I have passion for Design Systems, Web Accessibility and Serverless Technologies
 - 💻 Currently working as a Senior System Design Engineer.
 - 💻 Also a React Freelancer who worked both internationally and domestically.
 - 📫 How to reach me: ygzaydns@gmail.com.
-- ⚡ You can find the work I have done on [here](https://erolyagizaydin.vercel.app).
+#- ⚡ You can find the work I have done on [here](https://erolyagizaydin.vercel.app).
 
 
 My tech stack:
