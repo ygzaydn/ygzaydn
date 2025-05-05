@@ -2,9 +2,9 @@
 
 <p>I'm Yağız from Turkey.
 
-a React developer with 3+ years of experience.
+a tech guy with 7+ years of experience.
 
-I have passion for Design Systems, Web Accessibility and Serverless Technologies.
+I mainly focused on Design Systems, Web Accessibility and Serverless Technologies.
 
 - 💻 Currently working as a Senior System Design Engineer.
 - 📫 How to reach me: ygzaydns@gmail.com.
