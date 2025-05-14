@@ -4,9 +4,9 @@
 
 a tech guy with 7+ years of experience.
 
-I mainly focused on Design Systems, Web Accessibility and Serverless Technologies.
+I mainly focused on software based telco projects, web design and virtualization.
 
-- 💻 Currently working as a Senior System Design Engineer.
+- 💻 Currently working as a Lead System Design Engineer.
 - 📫 How to reach me: ygzaydns@gmail.com.
 
 My tech stack:
